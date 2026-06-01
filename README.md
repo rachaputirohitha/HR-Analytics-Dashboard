@@ -16,6 +16,6 @@ To provide actionable insights that support employee retention strategies and im
 * Excel
 * DAX
 ## Dataset used
-- C:\Users\User\Downloads
+- <a href="C:\Users\User\Downloads">Dataset</a>
 ## Outcome
 The dashboard enables HR professionals to identify high-risk employee segments, understand workforce trends, and implement targeted retention initiatives.
