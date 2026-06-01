@@ -20,4 +20,4 @@ To provide actionable insights that support employee retention strategies and im
 ## Outcome
 The dashboard enables HR professionals to identify high-risk employee segments, understand workforce trends, and implement targeted retention initiatives.
 ## Dashboard Image
-<a href="C:\Users\User\OneDrive\Pictures\Screenshots">Screenshot</a>
+- <a href="C:\Users\User\OneDrive\Pictures\Screenshots">Screenshot</a>
